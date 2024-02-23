@@ -16,3 +16,4 @@ Sou Estudante de Python e PostgreSQL<br><br>Atualmente trabalho como pessoa jur√
 [![](https://visitcount.itsvg.in/api?id=DEVGabrielBrasilPY&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="52px" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML"/>
