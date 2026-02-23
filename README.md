@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gabriel Freitas Brasil
+# 👋 Olá, eu sou o Gabriel Brasil
 
 ### **Desenvolvedor Full Stack | Node.js • React.js • TypeScript**
 
