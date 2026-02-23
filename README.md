@@ -31,23 +31,9 @@ Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGabrielBrasil&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielBrasil&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 📫 Vamos conversar?
-
-Atualmente contribuindo em projetos na **@Orni-com-br** e sempre aberto a novos desafios e parcerias inovadoras.
 
 📍 Cachoeirinha – RS, Brasil  
 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-brasil-29598a190/)  
 📧 [gabriel.f.wit@gmail.com](mailto:gabriel.f.wit@gmail.com)
 
----
-
-> *"Transformando linhas de código em soluções que facilitam a vida das pessoas."*
