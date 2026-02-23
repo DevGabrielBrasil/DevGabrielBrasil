@@ -34,6 +34,6 @@ Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções
 ## 📫 Vamos conversar?
 
 📍 Cachoeirinha – RS, Brasil  
-💼 [LinkedIn]([https://www.linkedin.com/in/gabriel-brasil-29598a190/](https://www.linkedin.com/in/gabriel-brasil-29598a190/))  
+💼 [LinkedIn](https://www.linkedin.com/in/gabriel-brasil-29598a190/)  
 📧 [gabriel.f.wit@gmail.com](mailto:gabriel.f.wit@gmail.com)
 
